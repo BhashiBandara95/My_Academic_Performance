@@ -1,0 +1,28 @@
+* {
+	margin: auto;
+	padding: auto;
+	box-sizing: border-box;
+	font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+header {
+	text-align: center;
+	text-decoration: underline;
+}
+
+.table {
+	margin-top: 50px;
+	width: 1000px;
+	font-weight: 500;
+	border: 2px;
+	border-style: solid;
+	padding: 2px;
+}
+
+.table th {
+	text-align: center;
+}
+
+.table td {
+	text-align: left;
+}

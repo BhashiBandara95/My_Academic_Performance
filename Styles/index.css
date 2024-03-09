@@ -1,0 +1,39 @@
+* {
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+	font-family: poppins, sans-serif;
+}
+
+.navbar {
+	display: flex;
+	justify-content: space-between;
+	list-style: none;
+	margin: 100px 350px;
+	padding: 10px 40px;
+	text-align: center;
+	overflow: hidden;
+	background-color: rgba(0, 81, 255, 0.349);
+}
+
+/*
+.logo {
+	padding-top: 18px;
+	margin-left: 40px;
+}
+
+*/
+
+.navbar-menu {
+	display: flex;
+	list-style: none;
+	align-items: center;
+}
+
+.links {
+	padding: 18px 20px 0 20px;
+	color: #0000cd;
+	font-size: 1.1rem;
+	text-decoration: none;
+	font-weight: 500;
+}
